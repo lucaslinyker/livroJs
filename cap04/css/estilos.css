@@ -4,6 +4,11 @@ img {
   float: left;
 }
 
+.exerc {
+  height: 200px;
+  width: 200px;
+}
+
 h1 {
   border-bottom-style: inset;
 }
