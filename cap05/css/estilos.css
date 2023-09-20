@@ -1,0 +1,19 @@
+img {
+  float: left;
+}
+
+img.normal {
+  height: 300px;
+}
+
+img.alta {
+  height: 420px;
+}
+
+h1 {
+  border-bottom-style: inset;
+}
+
+pre {
+  font-size: 1.2em;
+}
